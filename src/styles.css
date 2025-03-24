@@ -1,4 +1,6 @@
 @import "tailwindcss";
-@plugin "daisyui";
+@plugin "daisyui" {
+  themes: pastel --default;
+}
 @plugin "@tailwindcss/forms";
 @plugin "@tailwindcss/typography";
