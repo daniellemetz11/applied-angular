@@ -28,6 +28,10 @@ export class NavBarComponent {
       label: 'Home',
     },
     {
+      href: 'about',
+      label: 'About',
+    },
+    {
       href: 'demos',
       label: 'Demos',
     },
